@@ -1,0 +1,41 @@
+.formtitle{
+    color: white;
+}
+.subtitle{
+    color: rgb(212, 212, 212);
+}
+
+.contact_form{
+    min-width: 90%;
+    max-width: 100%;
+    background-color: rgb(0, 0, 0, .8);
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 10px;
+}
+
+
+.inputfield{
+    color: white;
+    padding: 8px;
+    min-height: 35px;
+    max-height: 80px;
+    min-width: 70%;
+    max-width: 80%;
+    border-style: solid;
+    border-color: rgb(255, 254, 254);
+    border-width: 1px;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.button{
+    color: rgb(212, 212, 212);
+    background-color: rgb(0, 0, 0, .4);
+    min-height: 35px;
+    border-style: solid;
+    border-color: rgb(255, 254, 254);
+    border-width: 2px;
+    border-radius: 10px;
+}

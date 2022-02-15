@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+.header{
+    /* background-color: rgba(78, 78, 78, 0.2); */
+    text-align: center;
+}
+
+.title{
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    /* margin-top: 4rem; */
+    padding-top: 4rem;
+    font-size: 50px;
+    font-family: "Nunito Sans",sans-serif;
+}
+
+.sub-title{
+    margin-bottom: 5rem;
+    color: black;
+}
