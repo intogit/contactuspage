@@ -6,14 +6,7 @@ const Contactpage = () => {
   return (
     <div className="contact_page">
       <div className="video-container">
-        <video
-          className="background_video"
-          playsinline="playsinline"
-          autoplay="autoplay"
-          muted="muted"
-          object="fit"
-          loop="loop"
-        >
+        <video className="background_video" autoPlay muted loop>
           <source src={backgroundvideo} type="video/mp4"></source>
         </video>
       </div>

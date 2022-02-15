@@ -1,7 +1,6 @@
 import './App.css';
 import Contactpage from './components/Contactuspage/Contactpage';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import bootstrap from 'bootstrap';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

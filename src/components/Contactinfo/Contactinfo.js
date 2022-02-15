@@ -7,7 +7,6 @@ const Contactinfo = () => {
   return (
     <div className="mh-auto">
       <div className="container-xl">
-        {/* <div className="col"> */}
         <div className="contact_info py-1 px-3">
           <div className="contact_info_item  pt-3 d-flex justify-content-start">
             <Phone></Phone>
@@ -19,7 +18,6 @@ const Contactinfo = () => {
             <Address></Address>
           </div>
         </div>
-        {/* </div> */}
       </div>
     </div>
   );
