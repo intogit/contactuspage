@@ -5,9 +5,9 @@ import "./Contactinfo.css";
 
 const Contactinfo = () => {
   return (
-    <div className="mh-auto">
-      <div className="container-xl">
-        <div className="contact_info py-1 px-3">
+    <div className="">
+      <div className="container">
+        <div className="contact_info py-1">
           <div className="contact_info_item  pt-3 d-flex justify-content-start">
             <Phone></Phone>
           </div>

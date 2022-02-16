@@ -6,7 +6,7 @@ const Form = () => {
   return (
     <div>
       <div className="mh-auto">
-        <div className="container-xl mh-auto">
+        <div className="container mh-auto">
           <div className="col">
             <div className="contact_form py-4">
               <div className="row">

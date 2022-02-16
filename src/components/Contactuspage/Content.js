@@ -11,14 +11,16 @@ const Content = () => {
         <Header></Header>
       </div>
       <div>
-        <div className="container p-3">
+        <div className="container px-5 py-2">
           <div className="row">
-            <div className="col justify-content-center py-2">
+            {/* <div className=" dsf d-flex">  */}
+            <div className="col justify-content-center  py-2">
               <Contactinfo></Contactinfo>
             </div>
             <div className="col justify-content-center pb-5">
               <Form></Form>
             </div>
+            {/* </div> */}
           </div>
         </div>
       </div>
